@@ -37131,68 +37131,68 @@ J(a){var s=null,r=t.w,q=A.b6(a,s,r).w.a.a
 A.b6(a,s,r).toString
 return q>=1200?new A.i(B.Db,A.af(A.je(B.il,1,1),s,q*0.85),s):new A.i(B.Dk,A.af(A.je(B.il,1,1),s,q*0.9),s)}}
 A.G9.prototype={
-J(a){var s,r,q,p,o,n=null,m="images/dra_alyne.jpg",l="Porque fazer o curso com uma pediatra?",k='"Eu montei esse curso pensando em ajudar os pais com quest\xf5es que vejo no dia a dia do meu consult\xf3rio que traz muitas ang\xfastias e inseguran\xe7a por n\xe3o saberem lidar com o beb\xea quando chegam em casa. Eu gosto de orient\xe1-los de uma forma realista e sem romantizar demais a maternidade, pois sim, ser\xe1 uma fase bem desafiadora, mas que com conhecimento, pode ficar mais leve e prazerosa!" ',j="- Dra Alyne Brisotti",i=t.w,h=A.b6(a,n,i).w.a.a
-A.b6(a,n,i).toString
-i=t.Ne
+J(a){var s,r,q,p,o,n=null,m="Porque fazer o curso com uma pediatra?",l='"Eu montei esse curso pensando em ajudar os pais com quest\xf5es que vejo no dia a dia do meu consult\xf3rio que traz muitas ang\xfastias e inseguran\xe7a por n\xe3o saberem lidar com o beb\xea quando chegam em casa. Eu gosto de orient\xe1-los de uma forma realista e sem romantizar demais a maternidade, pois sim, ser\xe1 uma fase bem desafiadora, mas que com conhecimento, pode ficar mais leve e prazerosa!" ',k="- Dra Alyne Brisotti",j=t.w,i=A.b6(a,n,j).w.a.a
+A.b6(a,n,j).toString
+j=t.Ne
 s=t.p
-if(h>=1200){r=A.jy(m,5)
-q=h*0.65
-p=A.af(A.j(l,n,n,n,A.cv(B.l,50,n,B.f,n),B.L,n),n,q)
+if(i>=1200){r=A.jy("assets/images/dra_alyne.jpg",5)
+q=i*0.65
+p=A.af(A.j(m,n,n,n,A.cv(B.l,50,n,B.f,n),B.L,n),n,q)
 o=A.cv(B.d,30,B.di,B.f,n)
-s=A.ba(A.a([new A.i(B.mj,A.ba(A.a([A.ad(A.a([new A.i(B.mp,r,n),A.ba(A.a([new A.i(B.m8,p,n),A.af(A.amw(A.bW(A.a([A.bW(n,n,k),A.bW(n,A.J(B.l,n,n,n,25,B.o,B.f),j)],i),o,n),n,B.a7),n,q)],s),B.y,B.q,B.j)],s),B.cM,B.j),new A.i(B.md,A.j("A Dra Alyne \xe9 m\xe9dica formada pela Universidade Anhembi Morumbi - SP desde 2018, terminando a faculdade fez Resid\xeancia M\xe9dica em Pediatria pelo Conjunto Hospitalar do Mandaqui - SP, tem T\xedtulo de Especialista em Pediatria (TEP) e desde sua forma\xe7\xe3o em Pediatra atua no Pronto Socorro Infantil do Hospital S\xe3o Camilo sendo respons\xe1vel pelas emerg\xeancias e pacientes internados. Somando com sua pr\xe1tica no consult\xf3rio onde faz desde consultas de Pr\xe9 Natal com os pais e acompanha a crian\xe7a desde os primeiros dias de vida at\xe9 o final da puberdade, a Dra Alyne possui um olhar completo da pediatria. Para aperfei\xe7oar seus atendimentos em pediatria, a Dra Alyne fez P\xf3s Gradua\xe7\xe3o em Neurodesenvolvimento infantil e seus transtornos, fez curso de amamenta\xe7\xe3o certificado pela Sociedade Brasileira de Pediatria (SBP) e atualmente est\xe1 se especializando em dermatologia pedi\xe1trica. Atender beb\xeas e orientar fam\xedlias \xe9 o que a Dra Alyne mais ama fazer!",n,n,n,A.J(B.d,n,n,n,23,n,B.f),B.a7,n),n)],s),B.y,B.q,B.j),n)],s),B.y,B.q,B.j)
-i=s}else{r=A.af(A.j(l,n,n,n,A.cv(B.l,35,n,B.f,n),B.r,n),n,h*0.95)
-q=A.jy(m,5)
-p=h*0.85
+s=A.ba(A.a([new A.i(B.mj,A.ba(A.a([A.ad(A.a([new A.i(B.mp,r,n),A.ba(A.a([new A.i(B.m8,p,n),A.af(A.amw(A.bW(A.a([A.bW(n,n,l),A.bW(n,A.J(B.l,n,n,n,25,B.o,B.f),k)],j),o,n),n,B.a7),n,q)],s),B.y,B.q,B.j)],s),B.cM,B.j),new A.i(B.md,A.j("A Dra Alyne \xe9 m\xe9dica formada pela Universidade Anhembi Morumbi - SP desde 2018, terminando a faculdade fez Resid\xeancia M\xe9dica em Pediatria pelo Conjunto Hospitalar do Mandaqui - SP, tem T\xedtulo de Especialista em Pediatria (TEP) e desde sua forma\xe7\xe3o em Pediatra atua no Pronto Socorro Infantil do Hospital S\xe3o Camilo sendo respons\xe1vel pelas emerg\xeancias e pacientes internados. Somando com sua pr\xe1tica no consult\xf3rio onde faz desde consultas de Pr\xe9 Natal com os pais e acompanha a crian\xe7a desde os primeiros dias de vida at\xe9 o final da puberdade, a Dra Alyne possui um olhar completo da pediatria. Para aperfei\xe7oar seus atendimentos em pediatria, a Dra Alyne fez P\xf3s Gradua\xe7\xe3o em Neurodesenvolvimento infantil e seus transtornos, fez curso de amamenta\xe7\xe3o certificado pela Sociedade Brasileira de Pediatria (SBP) e atualmente est\xe1 se especializando em dermatologia pedi\xe1trica. Atender beb\xeas e orientar fam\xedlias \xe9 o que a Dra Alyne mais ama fazer!",n,n,n,A.J(B.d,n,n,n,23,n,B.f),B.a7,n),n)],s),B.y,B.q,B.j),n)],s),B.y,B.q,B.j)
+j=s}else{r=A.af(A.j(m,n,n,n,A.cv(B.l,35,n,B.f,n),B.r,n),n,i*0.95)
+q=A.jy("images/dra_alyne.jpg",5)
+p=i*0.85
 o=A.cv(B.d,20,B.di,B.f,n)
-s=A.ba(A.a([new A.i(B.mh,A.ba(A.a([new A.i(B.m7,r,n),new A.i(B.mp,q,n),A.af(A.amw(A.bW(A.a([A.bW(n,n,k),A.bW(n,A.J(B.l,n,n,n,18,B.o,B.f),j)],i),o,n),n,B.a7),n,p),new A.i(B.md,A.af(A.j("A Dra Alyne \xe9 m\xe9dica formada pela Universidade Anhembi Morumbi - SP desde 2018, terminando a faculdade fez Resid\xeancia M\xe9dica em Pediatria pelo Conjunto Hospitalar do Mandaqui - SP, tem T\xedtulo de Especialista em Pediatria (TEP) e desde sua forma\xe7\xe3o em Pediatra atua no Pronto Socorro Infantil do Hospital S\xe3o Camilo sendo respons\xe1vel pelas emerg\xeancias e pacientes internados.\n\nSomando com sua pr\xe1tica no consult\xf3rio onde faz desde consultas de Pr\xe9 Natal com os pais e acompanha a crian\xe7a desde os primeiros dias de vida at\xe9 o final da puberdade, a Dra Alyne possui um olhar completo da pediatria.\n\nPara aperfei\xe7oar seus atendimentos em pediatria, a Dra Alyne fez P\xf3s Gradua\xe7\xe3o em Neurodesenvolvimento infantil e seus transtornos, fez curso de amamenta\xe7\xe3o certificado pela Sociedade Brasileira de Pediatria (SBP) e atualmente est\xe1 se especializando em dermatologia pedi\xe1trica. Atender beb\xeas e orientar fam\xedlias \xe9 o que a Dra Alyne mais ama fazer!",n,n,n,A.J(B.d,n,n,n,18,n,B.f),B.a7,n),n,p),n)],s),B.y,B.q,B.j),n)],s),B.y,B.q,B.j)
-i=s}return i}}
+s=A.ba(A.a([new A.i(B.mh,A.ba(A.a([new A.i(B.m7,r,n),new A.i(B.mp,q,n),A.af(A.amw(A.bW(A.a([A.bW(n,n,l),A.bW(n,A.J(B.l,n,n,n,18,B.o,B.f),k)],j),o,n),n,B.a7),n,p),new A.i(B.md,A.af(A.j("A Dra Alyne \xe9 m\xe9dica formada pela Universidade Anhembi Morumbi - SP desde 2018, terminando a faculdade fez Resid\xeancia M\xe9dica em Pediatria pelo Conjunto Hospitalar do Mandaqui - SP, tem T\xedtulo de Especialista em Pediatria (TEP) e desde sua forma\xe7\xe3o em Pediatra atua no Pronto Socorro Infantil do Hospital S\xe3o Camilo sendo respons\xe1vel pelas emerg\xeancias e pacientes internados.\n\nSomando com sua pr\xe1tica no consult\xf3rio onde faz desde consultas de Pr\xe9 Natal com os pais e acompanha a crian\xe7a desde os primeiros dias de vida at\xe9 o final da puberdade, a Dra Alyne possui um olhar completo da pediatria.\n\nPara aperfei\xe7oar seus atendimentos em pediatria, a Dra Alyne fez P\xf3s Gradua\xe7\xe3o em Neurodesenvolvimento infantil e seus transtornos, fez curso de amamenta\xe7\xe3o certificado pela Sociedade Brasileira de Pediatria (SBP) e atualmente est\xe1 se especializando em dermatologia pedi\xe1trica. Atender beb\xeas e orientar fam\xedlias \xe9 o que a Dra Alyne mais ama fazer!",n,n,n,A.J(B.d,n,n,n,18,n,B.f),B.a7,n),n,p),n)],s),B.y,B.q,B.j),n)],s),B.y,B.q,B.j)
+j=s}return j}}
 A.GL.prototype={
-J(a){var s,r,q,p,o=null,n="images/ezgif.com-optimize.gif",m="Curso de Pr\xe9 Natal Dra Alyne Brisotti",l=t.w,k=A.b6(a,o,l).w.a.a
-A.b6(a,o,l).toString
-l=t.V
+J(a){var s,r,q,p,o=null,n="Curso de Pr\xe9 Natal Dra Alyne Brisotti",m=t.w,l=A.b6(a,o,m).w.a.a
+A.b6(a,o,m).toString
+m=t.V
 s=t.p
-if(k>=1200){r=A.jy(n,2)
+if(l>=1200){r=A.jy("assets/images/ezgif.com-optimize.gif",2)
 q=A.d2(B.N,1)
 p=A.pz(new A.aG(15,15))
-l=A.a([new A.aP(2,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(5,5),16)],l)
-s=A.ba(A.a([new A.i(B.mg,r,o),new A.i(B.m8,A.bv(new A.i(B.Da,A.j(m,o,o,o,A.wf(B.l,65,B.f,o),B.r,o),o),B.v,new A.b0(B.a6,o,q,p,l,o,B.x),o,o,o,k*0.5),o)],s),B.y,B.q,B.j)
-l=s}else{r=A.jy(n,2)
+m=A.a([new A.aP(2,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(5,5),16)],m)
+s=A.ba(A.a([new A.i(B.mg,r,o),new A.i(B.m8,A.bv(new A.i(B.Da,A.j(n,o,o,o,A.wf(B.l,65,B.f,o),B.r,o),o),B.v,new A.b0(B.a6,o,q,p,m,o,B.x),o,o,o,l*0.5),o)],s),B.y,B.q,B.j)
+m=s}else{r=A.jy("images/ezgif.com-optimize.gif",2)
 q=A.d2(B.N,1)
 p=A.pz(new A.aG(15,15))
-l=A.a([new A.aP(2,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(5,5),16)],l)
-s=A.ba(A.a([new A.i(B.mg,r,o),new A.i(B.m7,A.bv(new A.i(B.DK,A.j(m,o,o,o,A.wf(B.l,35,B.f,o),B.r,o),o),B.v,new A.b0(B.a6,o,q,p,l,o,B.x),o,o,o,k*0.95),o)],s),B.y,B.q,B.j)
-l=s}return l}}
+m=A.a([new A.aP(2,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(5,5),16)],m)
+s=A.ba(A.a([new A.i(B.mg,r,o),new A.i(B.m7,A.bv(new A.i(B.DK,A.j(n,o,o,o,A.wf(B.l,35,B.f,o),B.r,o),o),B.v,new A.b0(B.a6,o,q,p,m,o,B.x),o,o,o,l*0.95),o)],s),B.y,B.q,B.j)
+m=s}return m}}
 A.xO.prototype={
 ad(){return new A.Pg()}}
 A.Pg.prototype={
-J(a0){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="images/gravida_04.png",f="Vamos testar se voc\xea est\xe1 preparado para a chegada do seu beb\xea?",e="Ajude a Nat\xe1lia com 10 d\xfavidas sobre o pr\xe9-natal e o p\xf3s parto e ganhe um material exclusivo que a Dra. Alyne preparou com muito carinho!",d="Est\xe3o prontos?",c="Entrar no Quiz",b=t.w,a=A.b6(a0,h,b).w.a.a
-A.b6(a0,h,b).toString
-b=t.V
-s=a*0.8
-if(a>=1200){r=A.af(A.j("Quiz",h,h,h,A.wf(B.l,150,B.f,h),B.r,h),h,a*0.85)
-q=A.jy(g,7)
-p=A.af(A.j(f,h,h,h,A.J(B.l,h,h,h,30,B.o,B.f),h,h),h,s)
-o=A.af(A.j(e,h,h,h,A.J(B.d,h,h,h,23,B.o,B.f),B.L,h),h,s)
-s=A.af(new A.i(B.DM,A.j(d,h,h,h,A.J(B.l,h,h,h,50,B.o,B.f),B.L,h),h),h,s)
-b=A.a([new A.aP(3,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(0,3),12)],b)
+J(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="Vamos testar se voc\xea est\xe1 preparado para a chegada do seu beb\xea?",f="Ajude a Nat\xe1lia com 10 d\xfavidas sobre o pr\xe9-natal e o p\xf3s parto e ganhe um material exclusivo que a Dra. Alyne preparou com muito carinho!",e="Est\xe3o prontos?",d="Entrar no Quiz",c=t.w,b=A.b6(a,h,c).w.a.a
+A.b6(a,h,c).toString
+c=t.V
+s=b*0.8
+if(b>=1200){r=A.af(A.j("Quiz",h,h,h,A.wf(B.l,150,B.f,h),B.r,h),h,b*0.85)
+q=A.jy("images/gravida_04.png",7)
+p=A.af(A.j(g,h,h,h,A.J(B.l,h,h,h,30,B.o,B.f),h,h),h,s)
+o=A.af(A.j(f,h,h,h,A.J(B.d,h,h,h,23,B.o,B.f),B.L,h),h,s)
+s=A.af(new A.i(B.DM,A.j(e,h,h,h,A.J(B.l,h,h,h,50,B.o,B.f),B.L,h),h),h,s)
+c=A.a([new A.aP(3,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(0,3),12)],c)
 n=i.d
 m=n?B.m:B.l
 l=A.d2(n?B.l:B.G,1)
 k=A.cj(15)
 j=t.p
-j=A.ba(A.a([r,new A.i(B.me,A.ad(A.a([q,A.af(new A.i(B.mr,A.ba(A.a([new A.i(B.DL,p,h),new A.i(B.mr,o,h),s,new A.i(B.DN,A.df(A.e2(h,A.bv(new A.i(B.mq,A.j(c,h,h,h,A.cv(n?B.l:B.m,50,B.o,B.f,h),h,h),h),B.v,new A.b0(m,h,l,k,b,h,B.x),h,h,h,410),B.a1,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.afx(i,a0),h,h,h),B.as,h,new A.afy(i),new A.afz(i),h),h)],j),B.br,B.q,B.j),h),h,a*0.6)],j),B.J,B.j),h)],j),B.y,B.q,B.j)
-b=j}else{r=a*0.9
+j=A.ba(A.a([r,new A.i(B.me,A.ad(A.a([q,A.af(new A.i(B.mr,A.ba(A.a([new A.i(B.DL,p,h),new A.i(B.mr,o,h),s,new A.i(B.DN,A.df(A.e2(h,A.bv(new A.i(B.mq,A.j(d,h,h,h,A.cv(n?B.l:B.m,50,B.o,B.f,h),h,h),h),B.v,new A.b0(m,h,l,k,c,h,B.x),h,h,h,410),B.a1,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.afx(i,a),h,h,h),B.as,h,new A.afy(i),new A.afz(i),h),h)],j),B.br,B.q,B.j),h),h,b*0.6)],j),B.J,B.j),h)],j),B.y,B.q,B.j)
+c=j}else{r=b*0.9
 q=A.af(A.j("Quiz",h,h,h,A.wf(B.l,90,B.f,h),B.r,h),h,r)
-p=A.af(A.j(f,h,h,h,A.J(B.l,h,h,h,25,B.o,B.f),h,h),h,s)
+p=A.af(A.j(g,h,h,h,A.J(B.l,h,h,h,25,B.o,B.f),h,h),h,s)
 o=t.p
-n=A.ad(A.a([A.jy(g,10),A.af(h,h,30),new A.i(B.z,A.af(A.j(e,h,h,h,A.J(B.d,h,h,h,23,B.o,B.f),B.L,h),h,a*0.5),h)],o),B.J,B.j)
-s=A.af(new A.i(B.fz,A.j(d,h,h,h,A.J(B.l,h,h,h,35,B.o,B.f),B.r,h),h),h,s)
-b=A.a([new A.aP(3,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(0,3),12)],b)
+n=A.ad(A.a([A.jy("asstes/images/gravida_04.png",10),A.af(h,h,30),new A.i(B.z,A.af(A.j(f,h,h,h,A.J(B.d,h,h,h,23,B.o,B.f),B.L,h),h,b*0.5),h)],o),B.J,B.j)
+s=A.af(new A.i(B.fz,A.j(e,h,h,h,A.J(B.l,h,h,h,35,B.o,B.f),B.r,h),h),h,s)
+c=A.a([new A.aP(3,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(0,3),12)],c)
 m=i.d
 l=m?B.m:B.l
 k=A.d2(m?B.l:B.G,1)
 j=A.cj(15)
-b=A.ba(A.a([q,new A.i(B.me,A.ba(A.a([new A.i(B.Dv,p,h),n,A.af(new A.i(B.z,A.ba(A.a([s,new A.i(B.iO,A.df(A.e2(h,A.eu(A.bv(new A.i(B.mq,A.j(c,h,h,h,A.cv(m?B.l:B.m,30,B.o,B.f,h),h,h),h),B.v,new A.b0(l,h,k,j,b,h,B.x),h,h,h,280),h,h),B.a1,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.afA(i,a0),h,h,h),B.as,h,new A.afB(i),new A.afC(i),h),h)],o),B.br,B.q,B.j),h),h,r)],o),B.y,B.q,B.j),h)],o),B.y,B.q,B.j)}return b},
+c=A.ba(A.a([q,new A.i(B.me,A.ba(A.a([new A.i(B.Dv,p,h),n,A.af(new A.i(B.z,A.ba(A.a([s,new A.i(B.iO,A.df(A.e2(h,A.eu(A.bv(new A.i(B.mq,A.j(d,h,h,h,A.cv(m?B.l:B.m,30,B.o,B.f,h),h,h),h),B.v,new A.b0(l,h,k,j,c,h,B.x),h,h,h,280),h,h),B.a1,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.afA(i,a),h,h,h),B.as,h,new A.afB(i),new A.afC(i),h),h)],o),B.br,B.q,B.j),h),h,r)],o),B.y,B.q,B.j),h)],o),B.y,B.q,B.j)}return c},
 Mt(a){A.anH(!1,new A.afs(),a,t.z)}}
 A.afy.prototype={
 $1(a){var s=this.a
