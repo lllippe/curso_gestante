@@ -37147,52 +37147,52 @@ o=A.cv(B.d,20,B.di,B.f,n)
 s=A.ba(A.a([new A.i(B.mh,A.ba(A.a([new A.i(B.m7,r,n),new A.i(B.mp,q,n),A.af(A.amw(A.bW(A.a([A.bW(n,n,l),A.bW(n,A.J(B.l,n,n,n,18,B.o,B.f),k)],j),o,n),n,B.a7),n,p),new A.i(B.md,A.af(A.j("A Dra Alyne \xe9 m\xe9dica formada pela Universidade Anhembi Morumbi - SP desde 2018, terminando a faculdade fez Resid\xeancia M\xe9dica em Pediatria pelo Conjunto Hospitalar do Mandaqui - SP, tem T\xedtulo de Especialista em Pediatria (TEP) e desde sua forma\xe7\xe3o em Pediatra atua no Pronto Socorro Infantil do Hospital S\xe3o Camilo sendo respons\xe1vel pelas emerg\xeancias e pacientes internados.\n\nSomando com sua pr\xe1tica no consult\xf3rio onde faz desde consultas de Pr\xe9 Natal com os pais e acompanha a crian\xe7a desde os primeiros dias de vida at\xe9 o final da puberdade, a Dra Alyne possui um olhar completo da pediatria.\n\nPara aperfei\xe7oar seus atendimentos em pediatria, a Dra Alyne fez P\xf3s Gradua\xe7\xe3o em Neurodesenvolvimento infantil e seus transtornos, fez curso de amamenta\xe7\xe3o certificado pela Sociedade Brasileira de Pediatria (SBP) e atualmente est\xe1 se especializando em dermatologia pedi\xe1trica. Atender beb\xeas e orientar fam\xedlias \xe9 o que a Dra Alyne mais ama fazer!",n,n,n,A.J(B.d,n,n,n,18,n,B.f),B.a7,n),n,p),n)],s),B.y,B.q,B.j),n)],s),B.y,B.q,B.j)
 j=s}return j}}
 A.GL.prototype={
-J(a){var s,r,q,p,o=null,n="Curso de Pr\xe9 Natal Dra Alyne Brisotti",m=t.w,l=A.b6(a,o,m).w.a.a
-A.b6(a,o,m).toString
-m=t.V
+J(a){var s,r,q,p,o=null,n="assets/images/ezgif.com-optimize.gif",m="Curso de Pr\xe9 Natal Dra Alyne Brisotti",l=t.w,k=A.b6(a,o,l).w.a.a
+A.b6(a,o,l).toString
+l=t.V
 s=t.p
-if(l>=1200){r=A.jy("assets/images/ezgif.com-optimize.gif",2)
+if(k>=1200){r=A.jy(n,2)
 q=A.d2(B.N,1)
 p=A.pz(new A.aG(15,15))
-m=A.a([new A.aP(2,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(5,5),16)],m)
-s=A.ba(A.a([new A.i(B.mg,r,o),new A.i(B.m8,A.bv(new A.i(B.Da,A.j(n,o,o,o,A.wf(B.l,65,B.f,o),B.r,o),o),B.v,new A.b0(B.a6,o,q,p,m,o,B.x),o,o,o,l*0.5),o)],s),B.y,B.q,B.j)
-m=s}else{r=A.jy("images/ezgif.com-optimize.gif",2)
+l=A.a([new A.aP(2,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(5,5),16)],l)
+s=A.ba(A.a([new A.i(B.mg,r,o),new A.i(B.m8,A.bv(new A.i(B.Da,A.j(m,o,o,o,A.wf(B.l,65,B.f,o),B.r,o),o),B.v,new A.b0(B.a6,o,q,p,l,o,B.x),o,o,o,k*0.5),o)],s),B.y,B.q,B.j)
+l=s}else{r=A.jy(n,2)
 q=A.d2(B.N,1)
 p=A.pz(new A.aG(15,15))
-m=A.a([new A.aP(2,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(5,5),16)],m)
-s=A.ba(A.a([new A.i(B.mg,r,o),new A.i(B.m7,A.bv(new A.i(B.DK,A.j(n,o,o,o,A.wf(B.l,35,B.f,o),B.r,o),o),B.v,new A.b0(B.a6,o,q,p,m,o,B.x),o,o,o,l*0.95),o)],s),B.y,B.q,B.j)
-m=s}return m}}
+l=A.a([new A.aP(2,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(5,5),16)],l)
+s=A.ba(A.a([new A.i(B.mg,r,o),new A.i(B.m7,A.bv(new A.i(B.DK,A.j(m,o,o,o,A.wf(B.l,35,B.f,o),B.r,o),o),B.v,new A.b0(B.a6,o,q,p,l,o,B.x),o,o,o,k*0.95),o)],s),B.y,B.q,B.j)
+l=s}return l}}
 A.xO.prototype={
 ad(){return new A.Pg()}}
 A.Pg.prototype={
-J(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="Vamos testar se voc\xea est\xe1 preparado para a chegada do seu beb\xea?",f="Ajude a Nat\xe1lia com 10 d\xfavidas sobre o pr\xe9-natal e o p\xf3s parto e ganhe um material exclusivo que a Dra. Alyne preparou com muito carinho!",e="Est\xe3o prontos?",d="Entrar no Quiz",c=t.w,b=A.b6(a,h,c).w.a.a
-A.b6(a,h,c).toString
-c=t.V
-s=b*0.8
-if(b>=1200){r=A.af(A.j("Quiz",h,h,h,A.wf(B.l,150,B.f,h),B.r,h),h,b*0.85)
-q=A.jy("images/gravida_04.png",7)
-p=A.af(A.j(g,h,h,h,A.J(B.l,h,h,h,30,B.o,B.f),h,h),h,s)
-o=A.af(A.j(f,h,h,h,A.J(B.d,h,h,h,23,B.o,B.f),B.L,h),h,s)
-s=A.af(new A.i(B.DM,A.j(e,h,h,h,A.J(B.l,h,h,h,50,B.o,B.f),B.L,h),h),h,s)
-c=A.a([new A.aP(3,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(0,3),12)],c)
+J(a0){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="assets/images/gravida_04.png",f="Vamos testar se voc\xea est\xe1 preparado para a chegada do seu beb\xea?",e="Ajude a Nat\xe1lia com 10 d\xfavidas sobre o pr\xe9-natal e o p\xf3s parto e ganhe um material exclusivo que a Dra. Alyne preparou com muito carinho!",d="Est\xe3o prontos?",c="Entrar no Quiz",b=t.w,a=A.b6(a0,h,b).w.a.a
+A.b6(a0,h,b).toString
+b=t.V
+s=a*0.8
+if(a>=1200){r=A.af(A.j("Quiz",h,h,h,A.wf(B.l,150,B.f,h),B.r,h),h,a*0.85)
+q=A.jy(g,7)
+p=A.af(A.j(f,h,h,h,A.J(B.l,h,h,h,30,B.o,B.f),h,h),h,s)
+o=A.af(A.j(e,h,h,h,A.J(B.d,h,h,h,23,B.o,B.f),B.L,h),h,s)
+s=A.af(new A.i(B.DM,A.j(d,h,h,h,A.J(B.l,h,h,h,50,B.o,B.f),B.L,h),h),h,s)
+b=A.a([new A.aP(3,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(0,3),12)],b)
 n=i.d
 m=n?B.m:B.l
 l=A.d2(n?B.l:B.G,1)
 k=A.cj(15)
 j=t.p
-j=A.ba(A.a([r,new A.i(B.me,A.ad(A.a([q,A.af(new A.i(B.mr,A.ba(A.a([new A.i(B.DL,p,h),new A.i(B.mr,o,h),s,new A.i(B.DN,A.df(A.e2(h,A.bv(new A.i(B.mq,A.j(d,h,h,h,A.cv(n?B.l:B.m,50,B.o,B.f,h),h,h),h),B.v,new A.b0(m,h,l,k,c,h,B.x),h,h,h,410),B.a1,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.afx(i,a),h,h,h),B.as,h,new A.afy(i),new A.afz(i),h),h)],j),B.br,B.q,B.j),h),h,b*0.6)],j),B.J,B.j),h)],j),B.y,B.q,B.j)
-c=j}else{r=b*0.9
+j=A.ba(A.a([r,new A.i(B.me,A.ad(A.a([q,A.af(new A.i(B.mr,A.ba(A.a([new A.i(B.DL,p,h),new A.i(B.mr,o,h),s,new A.i(B.DN,A.df(A.e2(h,A.bv(new A.i(B.mq,A.j(c,h,h,h,A.cv(n?B.l:B.m,50,B.o,B.f,h),h,h),h),B.v,new A.b0(m,h,l,k,b,h,B.x),h,h,h,410),B.a1,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.afx(i,a0),h,h,h),B.as,h,new A.afy(i),new A.afz(i),h),h)],j),B.br,B.q,B.j),h),h,a*0.6)],j),B.J,B.j),h)],j),B.y,B.q,B.j)
+b=j}else{r=a*0.9
 q=A.af(A.j("Quiz",h,h,h,A.wf(B.l,90,B.f,h),B.r,h),h,r)
-p=A.af(A.j(g,h,h,h,A.J(B.l,h,h,h,25,B.o,B.f),h,h),h,s)
+p=A.af(A.j(f,h,h,h,A.J(B.l,h,h,h,25,B.o,B.f),h,h),h,s)
 o=t.p
-n=A.ad(A.a([A.jy("asstes/images/gravida_04.png",10),A.af(h,h,30),new A.i(B.z,A.af(A.j(f,h,h,h,A.J(B.d,h,h,h,23,B.o,B.f),B.L,h),h,b*0.5),h)],o),B.J,B.j)
-s=A.af(new A.i(B.fz,A.j(e,h,h,h,A.J(B.l,h,h,h,35,B.o,B.f),B.r,h),h),h,s)
-c=A.a([new A.aP(3,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(0,3),12)],c)
+n=A.ad(A.a([A.jy(g,10),A.af(h,h,30),new A.i(B.z,A.af(A.j(e,h,h,h,A.J(B.d,h,h,h,23,B.o,B.f),B.L,h),h,a*0.5),h)],o),B.J,B.j)
+s=A.af(new A.i(B.fz,A.j(d,h,h,h,A.J(B.l,h,h,h,35,B.o,B.f),B.r,h),h),h,s)
+b=A.a([new A.aP(3,B.C,A.Y(130,B.d.gk()>>>16&255,B.d.gk()>>>8&255,B.d.gk()&255),new A.f(0,3),12)],b)
 m=i.d
 l=m?B.m:B.l
 k=A.d2(m?B.l:B.G,1)
 j=A.cj(15)
-c=A.ba(A.a([q,new A.i(B.me,A.ba(A.a([new A.i(B.Dv,p,h),n,A.af(new A.i(B.z,A.ba(A.a([s,new A.i(B.iO,A.df(A.e2(h,A.eu(A.bv(new A.i(B.mq,A.j(d,h,h,h,A.cv(m?B.l:B.m,30,B.o,B.f,h),h,h),h),B.v,new A.b0(l,h,k,j,c,h,B.x),h,h,h,280),h,h),B.a1,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.afA(i,a),h,h,h),B.as,h,new A.afB(i),new A.afC(i),h),h)],o),B.br,B.q,B.j),h),h,r)],o),B.y,B.q,B.j),h)],o),B.y,B.q,B.j)}return c},
+b=A.ba(A.a([q,new A.i(B.me,A.ba(A.a([new A.i(B.Dv,p,h),n,A.af(new A.i(B.z,A.ba(A.a([s,new A.i(B.iO,A.df(A.e2(h,A.eu(A.bv(new A.i(B.mq,A.j(c,h,h,h,A.cv(m?B.l:B.m,30,B.o,B.f,h),h,h),h),B.v,new A.b0(l,h,k,j,b,h,B.x),h,h,h,280),h,h),B.a1,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.afA(i,a0),h,h,h),B.as,h,new A.afB(i),new A.afC(i),h),h)],o),B.br,B.q,B.j),h),h,r)],o),B.y,B.q,B.j),h)],o),B.y,B.q,B.j)}return b},
 Mt(a){A.anH(!1,new A.afs(),a,t.z)}}
 A.afy.prototype={
 $1(a){var s=this.a
@@ -37609,7 +37609,7 @@ A.ai1.prototype={
 $0(){this.a.w=!1},
 $S:0}
 A.rU.prototype={
-J(a){var s,r,q=null,p="images/dra_alyne_corpo.png",o="Sejam bem-vindos! \u2728",n="Dra. Alyne preparou um material exclusivo para voc\xea!",m="Ajude a Nat\xe1lia com suas d\xfavidas sobre a gesta\xe7\xe3o para receber! \ud83d\udcdd",l=t.p
+J(a){var s,r,q=null,p="assets/images/dra_alyne_corpo.png",o="Sejam bem-vindos! \u2728",n="Dra. Alyne preparou um material exclusivo para voc\xea!",m="Ajude a Nat\xe1lia com suas d\xfavidas sobre a gesta\xe7\xe3o para receber! \ud83d\udcdd",l=t.p
 if(A.b6(a,q,t.w).w.a.a>=1200){s=A.cj(20)
 r=A.ad(A.a([A.jy(p,20),A.ba(A.a([A.j(o,q,q,q,A.cv(B.l,60,q,B.f,q),B.r,q),B.Nx,A.j(n,q,q,q,A.cv(B.N,40,q,B.f,q),B.r,q),B.y9,A.j(m,q,q,q,A.cv(B.N,40,q,B.f,q),B.r,q)],l),B.y,B.q,B.bG)],l),B.c_,B.j)
 s=A.uq(A.a([A.oJ(B.yz,new A.a9Z(a),q),A.Ge(B.yy,new A.aa_(this,a),A.Xt(q,q,B.N,q,q,q,q,q,q,B.m,q,q,q,q,new A.co(A.cj(10),B.t),q,q,q,q))],l),B.J,q,new A.i(B.b4,r,q),new A.co(s,B.t),q)
