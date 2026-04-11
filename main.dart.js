@@ -37609,7 +37609,7 @@ A.ai1.prototype={
 $0(){this.a.w=!1},
 $S:0}
 A.rU.prototype={
-J(a){var s,r,q=null,p="assets/images/dra_alyne_corpo.png",o="Sejam bem-vindos! \u2728",n="Dra. Alyne preparou um material exclusivo para voc\xea!",m="Ajude a Nat\xe1lia com suas d\xfavidas sobre a gesta\xe7\xe3o para receber! \ud83d\udcdd",l=t.p
+J(a){var s,r,q=null,p="assets/images/Dra_alyne_corpo.png",o="Sejam bem-vindos! \u2728",n="Dra. Alyne preparou um material exclusivo para voc\xea!",m="Ajude a Nat\xe1lia com suas d\xfavidas sobre a gesta\xe7\xe3o para receber! \ud83d\udcdd",l=t.p
 if(A.b6(a,q,t.w).w.a.a>=1200){s=A.cj(20)
 r=A.ad(A.a([A.jy(p,20),A.ba(A.a([A.j(o,q,q,q,A.cv(B.l,60,q,B.f,q),B.r,q),B.Nx,A.j(n,q,q,q,A.cv(B.N,40,q,B.f,q),B.r,q),B.y9,A.j(m,q,q,q,A.cv(B.N,40,q,B.f,q),B.r,q)],l),B.y,B.q,B.bG)],l),B.c_,B.j)
 s=A.uq(A.a([A.oJ(B.yz,new A.a9Z(a),q),A.Ge(B.yy,new A.aa_(this,a),A.Xt(q,q,B.N,q,q,q,q,q,q,B.m,q,q,q,q,new A.co(A.cj(10),B.t),q,q,q,q))],l),B.J,q,new A.i(B.b4,r,q),new A.co(s,B.t),q)
