@@ -24679,25 +24679,27 @@ if(o==null){o=A.a([],s)
 n.n(0,p,o)
 p=o}else p=o
 J.jj(p,q)}return n},
-a60(a,b,c,d,e,f,g){var s=0,r=A.P(t.y),q,p=2,o,n,m,l,k,j,i
-var $async$a60=A.Q(function(h,a0){if(h===1){o=a0
-s=p}while(true)switch(s){case 0:l=A.fJ("https://www.appsfrpelissari.com/0010038/",0,null)
-k=t.N
-j=A.al(["nome",d,"email",b,"data_envio",a,"semana",f,"pontuacao",e,"token",g,"erros_json",c],k,t.z)
+a60(a,b,c,d,e,f,g){var s=0,r=A.P(t.y),q,p=2,o,n,m,l,k,j,i,h
+var $async$a60=A.Q(function(a0,a1){if(a0===1){o=a1
+s=p}while(true)switch(s){case 0:k=A.fJ("https://www.appsfrpelissari.com/0010038/",0,null)
+j=t.N
+i=A.al(["nome",d,"email",b,"data_envio",a,"semana",f,"pontuacao",e,"token",g,"erros_json",c],j,t.z)
 p=4
-k=A.al(["Content-Type","application/json; charset=UTF-8"],k,k)
+j=A.al(["Content-Type","application/json; charset=UTF-8"],j,j)
 s=7
-return A.U(A.aL7(l,B.dd.Qz(j,null),k),$async$a60)
-case 7:n=a0
-k=n.b===200||n.b===201
-q=k
+return A.U(A.aL7(k,B.dd.Qz(i,null),j),$async$a60)
+case 7:n=a1
+if(n.b===200||n.b===201){m={}
+m.send_to="AW-10978812105/IQeDCOjDt68cEMnBjfMo"
+self.gtag("event","conversion",m)}j=n.b===200||n.b===201
+q=j
 s=1
 break
 p=2
 s=6
 break
 case 4:p=3
-i=o
+h=o
 q=!1
 s=1
 break
